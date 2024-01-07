@@ -1,11 +1,11 @@
-#Problem Statement :-
+#Problem Statement:-
 
 '''Write Python program to store the first year percentage of students in an array.
 Write function for sorting array of floating point numbers in ascending order using 
 Selection Sort 
 Bubble sort'''
 
-#Code :-
+#Code:-
 
 def bubblesort(array):
     n=len(array)
