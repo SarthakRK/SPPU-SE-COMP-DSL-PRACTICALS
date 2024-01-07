@@ -1,11 +1,11 @@
-//Problem Statement:
+//Problem Statement:-
 
 /*Pizza parlor accepting maximum M orders.Orders are served in first come first served basis.
 Order once placed cannot be canceled.
 
 Write C++ program to simulate the system using a circular queue using arrays.*/
 
-//Code :-
+//Code:-
 
 #include <iostream>
 using namespace std;
