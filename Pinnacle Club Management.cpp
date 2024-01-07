@@ -1,4 +1,4 @@
-//Problem Statement :-
+//Problem Statement:-
 
 /*The Department of Computer Engineering has a students club named Pinnacle Club.
 Students of second, third and final year of department can be granted membership on request.
@@ -18,7 +18,7 @@ c) Display members
 
 d) Two linked lists exists for two divisions. Concatenate two lists.*/
 
-//Code :-
+//Code:-
 
 #include<iostream>
 
