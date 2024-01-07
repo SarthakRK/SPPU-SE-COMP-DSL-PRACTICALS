@@ -1,10 +1,10 @@
-# Problem Statement :-
+# Problem Statement:-
 
 '''a) Write a Python program to store roll numbers of student in array who attended training program in random order.
 Write function for searching whether particular student attended training program or not,
 using Linear search and Sentinel search.'''
 
-#Code :-
+#Code:-
 
 arr=[]
 n=int(input("Enter The Number Of Student Enroll In Training Program - "))
