@@ -37,7 +37,6 @@ node *createnode()
 	return ntemp;
 }
 
-
 void SLL::accept()
 {
 	int n,i;
@@ -64,7 +63,6 @@ void SLL::accept()
 	}
 }
 
-
 void SLL::display()
 {
 	node *trav=start;
@@ -77,7 +75,6 @@ void SLL::display()
     cout<<endl;
 }
 
-
 void SLL::insert_beg()
 {
 	cout<<"\nAdd Node To The Beginning : ";
@@ -88,7 +85,6 @@ void SLL::insert_beg()
 	cout<<endl;
 
 }
-
 
 void SLL::insert_after()
 {
@@ -109,7 +105,6 @@ void SLL::insert_after()
 	cout<<endl;
 }
 
-
 void SLL::insert_end()
 {
 	cout<<"Which Node You Want To Insert At End : ";
@@ -122,9 +117,7 @@ void SLL::insert_end()
 	trav->next=ntemp;
 	display();
 	cout<<endl;
-
 }
-
 
 void SLL::delete_beg()
 {
@@ -137,7 +130,6 @@ void SLL::delete_beg()
 	display();
 	cout<<endl;
 }
-
 
 void SLL::delete_end()
 {
@@ -157,7 +149,6 @@ void SLL::delete_end()
 
 }
 
-
 void SLL::delete_node()
 {
 	node *trav,*old;
@@ -176,7 +167,6 @@ void SLL::delete_node()
 	display();
     cout<<endl;
 }
-
 
 int main()
 {
