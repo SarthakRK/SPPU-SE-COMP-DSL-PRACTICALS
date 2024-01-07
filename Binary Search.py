@@ -1,10 +1,10 @@
-#Problem Statement :-
+#Problem Statement:-
 
 '''b) Write a Python program to store roll numbers of student array who attended training program in sorted order.
 Write function for searching whether particular student attended training program or not,
 using Binary search(recursive and non-recursive method).'''
 
-#Code :-
+#Code:-
 
 arr = []
 n = int(input("Enter The Number Of Student Enroll In Training Program - "))
