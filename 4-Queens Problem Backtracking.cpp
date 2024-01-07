@@ -7,7 +7,7 @@ The queen can move as far as she wants in any direction, as long as she follows 
 
 Write C++ program with a recursive function for generating all possible configurations for 4-queen's problem.*/
 
-//Code :-
+//Code:-
 
 #include<iostream>
 using namespace std;
