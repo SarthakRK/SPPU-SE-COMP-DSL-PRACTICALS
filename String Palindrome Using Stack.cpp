@@ -1,4 +1,4 @@
-//Problem Statement:
+//Problem Statement:-
 
 /*A palindrome is a string of character that's the same forward and backward. Typically, punctuation, capitalization, and spaces are ignored. For example, "Poor Dan is in a droop' is a palindrome,
 as can be seen by exanuning the characters "poor danisına droop" and observing that they are the same forward and backward.
@@ -8,7 +8,7 @@ Write C++ program with functions
 a) To print original string followed by reversed string using stack
 b) To check whether given string is palindrome or not*/
 
-//Code :-
+//Code:-
 
 #include <iostream>
 #include<string.h>
