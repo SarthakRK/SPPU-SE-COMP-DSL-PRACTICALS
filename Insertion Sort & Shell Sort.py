@@ -1,11 +1,11 @@
-#Problem Statement:
+#Problem Statement:-
 
 '''Write a Python program to store the second year percentage of students in an array.
 Write function for sorting array of floating point numbers in ascending order using
 a) Insertion sort.
 b) Shell Sort and display Top five scores.'''
 
-#Code :-
+#Code:-
 
 def insertion_sort(arr):
     for i in range(1, len(arr)):
