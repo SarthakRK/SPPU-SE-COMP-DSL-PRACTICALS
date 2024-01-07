@@ -194,7 +194,6 @@ void Binary::sum(Binary bin2)
     }
 }
 
-
 int main()
 {
     Binary n1,n2;
