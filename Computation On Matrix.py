@@ -1,4 +1,4 @@
-#Problem Statement :-
+#Problem Statement:-
 
 '''Write a Python program to compute following computation on matrix : 
 A. Addition of two matrices. 
@@ -6,7 +6,7 @@ B. Subtraction of two matrices.
 C. Multiplication of two matrices. 
 D. Transpose of a matrix.'''
 
-#Code :-
+#Code:-
 
 r1 = int(input("Enter number of rows for matrix1 : "))
 c1= int(input("Enter number of columns for matrix1 : "))
