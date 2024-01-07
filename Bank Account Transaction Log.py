@@ -1,4 +1,4 @@
-#Problem Statement :-
+#Problem Statement:-
 
 '''Write a python program that computes the net amount of a bank account based on a transaction log from console input.
 The transaction log format is shown as following:
@@ -14,7 +14,7 @@ D 100
 
 Then, the output should be: 500'''
 
-#Code :-
+#Code:-
 
 balance = 0
 def deposite(amount):
