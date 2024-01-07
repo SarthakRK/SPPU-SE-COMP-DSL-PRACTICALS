@@ -1,10 +1,10 @@
-//Problem Statement :- 
+//Problem Statement:- 
 
 /*Write C ++ program for storing binary number using doubly linked lists. Write functions
 a) To compute 1s and 2s complement.
 b) Add two binary numbers.*/
 
-//Code :-
+//Code:-
 
 #include<iostream>
 using namespace std;
